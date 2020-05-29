@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="332"
+   height="125"
+   viewBox="0 0 332 125"
+   sodipodi:docname="logo_v1.0_black.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/cadu/Dropbox/006 Cadu Company/05 Marketing/kaducompany_logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.1085413"
+     inkscape:cx="125.84493"
+     inkscape:cy="23.774814"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="10.908015,93.429519"
+       orientation="1,0"
+       id="guide934"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="78.253151,93.429519"
+       orientation="1,0"
+       id="guide936"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="87.26412,63.076782"
+       orientation="1,0"
+       id="guide938"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="321.54931,86.789858"
+       orientation="1,0"
+       id="guide940"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="152.71221,98.646396"
+       orientation="0,1"
+       id="guide942"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="174.05398,29.404214"
+       orientation="0,1"
+       id="guide944"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+     x="85.841331"
+     y="83.264984"
+     id="text825"><tspan
+       sodipodi:role="line"
+       id="tspan823"
+       x="85.841331"
+       y="83.264984"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter';fill:#ffffff;">kaduban</tspan></text>
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+     d="m 19.089488,26.826893 c -4.59797,0 -8.30078,3.70282 -8.30078,8.30079 v 52.16797 c 0,4.59797 3.70281,8.30079 8.30078,8.30079 h 50.982418 c 4.597966,0 8.300781,-3.70282 8.300781,-8.30079 v -52.16797 c 0,-4.59797 -3.702815,-8.30079 -8.300781,-8.30079 z m 17.314447,14.01563 c 1.8325,-0.0547 3.529008,0.0605 5.08594,0.30664 v 8.92383 c 5.37483,-1.43937 9.973042,-5.10256 14.650391,-8.53711 2.690793,1.5521 3.47122,3.10415 3.978515,4.65625 l -11.033203,12.61133 15.011719,19.78907 c -0.966423,2.12392 -2.154207,3.13816 -3.435547,3.6875 -6.580208,-4.50681 -12.078594,-9.49904 -21.341797,-12.80665 l -2.169918,12.02931 c -1.59743,0.0286 -2.93658,0.49218 -5.427737,-0.96875 -0.11292,-12.61492 -0.96561,-25.702 -5.60547,-37.834 3.80036,-1.20544 7.23295,-1.76619 10.287107,-1.85742 z"
+     id="rect817-3"
+     inkscape:connector-curvature="0" />
+</svg>

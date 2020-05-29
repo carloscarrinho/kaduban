@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="332"
+   height="125"
+   viewBox="0 0 332 125"
+   sodipodi:docname="logo v1.0.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/cadu/Dropbox/006 Cadu Company/05 Marketing/kaducompany_logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.1085413"
+     inkscape:cx="157.92308"
+     inkscape:cy="42.278199"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="opacity:1;fill:#2ad4ff;fill-opacity:1;stroke:none;stroke-width:0.50094968;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect821"
+     width="331.98306"
+     height="125.20504"
+     x="0"
+     y="-0.20504075"
+     ry="0" />
+  <rect
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+     id="rect817"
+     width="67.582268"
+     height="68.767914"
+     x="9.7625542"
+     y="27.742682"
+     ry="8.2995768" />
+  <path
+     style="fill:#2ad4ff;stroke:none;stroke-width:0.55857962;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 25.089612,43.615388 c 6.080573,-1.928713 11.221425,-2.208536 15.373247,-1.552098 v 8.924567 c 5.37483,-1.439368 9.972452,-5.101987 14.649801,-8.536542 2.690793,1.552098 3.471662,3.104197 3.978957,4.656295 L 48.059052,59.718411 63.070575,79.507668 c -0.966423,2.123917 -2.155032,3.136903 -3.436372,3.686234 C 53.053995,78.687093 47.555721,73.696699 38.292518,70.389088 l -2.17034,12.028765 c -1.597423,0.02864 -2.93469,0.490866 -5.425852,-0.970062 -0.11292,-12.614914 -0.966858,-25.700407 -5.606714,-37.832403 z"
+     id="path819"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="85.841331"
+     y="83.264984"
+     id="text825"><tspan
+       sodipodi:role="line"
+       id="tspan823"
+       x="85.841331"
+       y="83.264984"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Architects Daughter';-inkscape-font-specification:'Architects Daughter'">kaduban</tspan></text>
+</svg>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="/assets/kaducompany_favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Kaduban</title>
+</head>
+<body>
+  <header>
+    <img src="./assets/kaducompany_logo_azul.png" alt="Logo">
+  </header>
+
+  <div class="content">
+
+    <div class="boards">
+      <div class="board">
+        <input type="text" value="To Do" />
+        <div class="dropzone">
+          <div class="card" draggable="true">
+            <div class="status"></div>
+            <textarea maxlength="120"></textarea>
+          </div>
+        </div>
+        <button type="button" id="addCard">+ add new card</button>
+      </div>
+    </div>
+
+    <button type="button" id="newList">+ add new list</button>    
+  </div>
+  
+  <script src="js/scripts.js"></script>
+</body>
+</html>
